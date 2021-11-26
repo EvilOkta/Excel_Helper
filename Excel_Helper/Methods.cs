@@ -36,7 +36,7 @@ namespace Excel_Helper
             } while (!isBordered);
 
             int delta = 0;
-            object getvalue;
+            object getvalue; // тестовый коммент
 
             do
             {
